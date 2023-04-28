@@ -1,0 +1,15 @@
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\bin\Debug\net6.0\DingConsoleAppSource.exe
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\bin\Debug\net6.0\DingConsoleAppSource.deps.json
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\bin\Debug\net6.0\DingConsoleAppSource.runtimeconfig.json
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\bin\Debug\net6.0\DingConsoleAppSource.dll
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\bin\Debug\net6.0\DingConsoleAppSource.pdb
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.csproj.AssemblyReference.cache
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.AssemblyInfoInputs.cache
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.AssemblyInfo.cs
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.csproj.CoreCompileInputs.cache
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.dll
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\refint\DingConsoleAppSource.dll
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.pdb
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\DingConsoleAppSource.genruntimeconfig.cache
+D:\C# Codes\DingConsoleApp\DingConsoleAppSource\obj\Debug\net6.0\ref\DingConsoleAppSource.dll
